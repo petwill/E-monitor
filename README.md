@@ -1,4 +1,5 @@
 #E-monitor 2017 Hackerthon makeNTU</br>
+An app that allows monitoring electronic device remotely( Using MCS cloud ).</br>
 Open Source version of my App, E-monitor.</br>
 Referenced and Modified from PosTrainer-open (open source).</br>
 This version includes all source code. </br>
