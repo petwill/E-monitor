@@ -1,4 +1,5 @@
-#E-monitor 2017 </br>
+# E-monitor 
+
 Open Source version of my App, E-monitor.</br>
 Referenced and Modified from PosTrainer-open (open source).</br>
 An android app that allows monitoring electronic device remotely simply by scanning QR code.</br>
