@@ -1,7 +1,8 @@
-#E-monitor 2017 Hackerthon makeNTU</br>
-An app that allows monitoring electronic device remotely( Using MCS cloud ).</br>
+#E-monitor 2017 </br>
 Open Source version of my App, E-monitor.</br>
 Referenced and Modified from PosTrainer-open (open source).</br>
+An android app that allows monitoring electronic device remotely simply by scanning QR code.</br>
+Platform: Using MCS cloud 
 This version includes all source code. </br>
 Here are some screen shots of the app.</br>
 <a href="url"><img src="https://raw.githubusercontent.com/petwill/E-monitor/master/Screenshot/Screenshot_2017-02-26-08-52-16.png" align="left" width="400" height="800" ></a>
