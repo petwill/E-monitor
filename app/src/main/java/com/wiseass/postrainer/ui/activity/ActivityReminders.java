@@ -69,11 +69,12 @@ public class ActivityReminders extends AppCompatActivity
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_reminders);
-
+        /*
         if (android.os.Build.VERSION.SDK_INT > 9) {
             StrictMode.ThreadPolicy policy = new StrictMode.ThreadPolicy.Builder().permitAll().build();
             StrictMode.setThreadPolicy(policy);
         }
+        */
 
         toolbar = (Toolbar) findViewById(R.id.toolbar);
         //Button button = (Button)findViewById(R.id.qrCodeScanner);
