@@ -6,9 +6,10 @@ Cloud platform: MediaTek Cloud Sandbox(MCS) </br>
 Features: <b>real-time monitoring, embedded QR code scanner, customized settings for notification</b> </br>
 This version includes all source code. </br>
 Sample device:
-<a href="url"><img src="https://raw.githubusercontent.com/petwill/E-monitor/master/Screenshot/sample_device.png" align="left" width="400" height="800" ></a>
+<a href="url"><img src="https://raw.githubusercontent.com/petwill/E-monitor/master/Screenshot/sample_device.png" 
+width="400" height="800" ></a>
 Here are some screen shots of the app.</br>
-<a href="url"><img src="https://raw.githubusercontent.com/petwill/E-monitor/master/Screenshot/Screenshot_2017-02-26-08-52-16.png" align="left" width="200" height="400" ></a>
+<a href="url"><img src="https://raw.githubusercontent.com/petwill/E-monitor/master/Screenshot/Screenshot_2017-02-26-08-52-16.png" align="left" width="400" height="800" ></a>
 <a href="url"><img src="https://raw.githubusercontent.com/petwill/E-monitor/master/Screenshot/Screenshot_2017-02-26-09-18-18.png" align="right" width="400" height="800" ></a>
 <a href="url"><img src="https://raw.githubusercontent.com/petwill/E-monitor/master/Screenshot/Screenshot_2017-02-26-08-52-59.png" align="left" width="400" height="800" ></a>
 <a href="url"><img src="https://raw.githubusercontent.com/petwill/E-monitor/master/Screenshot/Screenshot_2017-02-26-11-02-24.png" align="right" width="400" height="800" ></a>
