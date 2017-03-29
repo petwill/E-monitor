@@ -7,7 +7,8 @@ Features: <b>real-time monitoring, embedded QR code scanner, customized settings
 This version includes all source code. </br>
 Sample device :</br>
 <a href="url"><img src="https://raw.githubusercontent.com/petwill/E-monitor/master/Screenshot/sample_device.jpg" 
-width="100" height="200" ></a>
+width="200" height="400" ></a>
+</br>
 Here are some screen shots of the app.</br>
 <a href="url"><img src="https://raw.githubusercontent.com/petwill/E-monitor/master/Screenshot/Screenshot_2017-02-26-08-52-16.png" align="left" width="400" height="800" ></a>
 <a href="url"><img src="https://raw.githubusercontent.com/petwill/E-monitor/master/Screenshot/Screenshot_2017-02-26-09-18-18.png" align="right" width="400" height="800" ></a>
