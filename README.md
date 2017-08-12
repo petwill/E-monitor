@@ -19,14 +19,14 @@ For more info about this project, Please refer to file E-monitor.pptx
 ### device appearance
 
 
-<a href="url"><img src="https://raw.githubusercontent.com/petwill/E-monitor/master/Screenshot/sample_device.jpg" 
-width="200" height="400" ></a>
+<a href="url"><img src="https://raw.githubusercontent.com/petwill/E-monitor/master/photos/device_0.jpg" width="200" height="400" ></a>
+<a href="url"><img src="https://raw.githubusercontent.com/petwill/E-monitor/master/photos/device_1.jpg" width="200" height="400" ></a>
 
 ### App Screenshot
 
-<a href="url"><img src="https://raw.githubusercontent.com/petwill/E-monitor/master/Screenshot/Screenshot_2017-02-26-08-52-16.png" align="left" width="400" height="800" ></a>
-<a href="url"><img src="https://raw.githubusercontent.com/petwill/E-monitor/master/Screenshot/Screenshot_2017-02-26-09-18-18.png" align="right" width="400" height="800" ></a>
-<a href="url"><img src="https://raw.githubusercontent.com/petwill/E-monitor/master/Screenshot/Screenshot_2017-02-26-08-52-59.png" align="left" width="400" height="800" ></a>
-<a href="url"><img src="https://raw.githubusercontent.com/petwill/E-monitor/master/Screenshot/Screenshot_2017-02-26-11-02-24.png" align="right" width="400" height="800" ></a>
+<a href="url"><img src="https://raw.githubusercontent.com/petwill/E-monitor/master/photos/screenshot_0.png" align="left" width="400" height="800" ></a>
+<a href="url"><img src="https://raw.githubusercontent.com/petwill/E-monitor/master/photos/screenshot_1.png" align="right" width="400" height="800" ></a>
+<a href="url"><img src="https://raw.githubusercontent.com/petwill/E-monitor/master/photos/screenshot_2.png" align="left" width="400" height="800" ></a>
+<a href="url"><img src="https://raw.githubusercontent.com/petwill/E-monitor/master/photos/screenshot_3.png" align="right" width="400" height="800" ></a>
 
 
