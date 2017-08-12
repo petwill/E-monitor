@@ -19,8 +19,8 @@ For more info about this project, Please refer to file E-monitor.pptx
 ### device appearance
 
 
-<a href="url"><img src="https://raw.githubusercontent.com/petwill/E-monitor/master/photos/device_0.jpg" width="200" height="400" ></a>
-<a href="url"><img src="https://raw.githubusercontent.com/petwill/E-monitor/master/photos/device_1.jpg" width="200" height="400" ></a>
+<a href="url"><img src="https://raw.githubusercontent.com/petwill/E-monitor/master/photos/device_0.jpg" align="left" width="200" height="400" ></a>
+<a href="url"><img src="https://raw.githubusercontent.com/petwill/E-monitor/master/photos/device_1.jpg" align="right" width="200" height="400" ></a>
 
 ### App Screenshot
 
