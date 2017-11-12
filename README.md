@@ -18,9 +18,8 @@ Linkit One 7688
 For more info about this project, Please refer to file E-monitor.pptx
 ### device appearance
 
-
-<a href="url"><img src="https://raw.githubusercontent.com/petwill/E-monitor/master/photos/device_0.jpeg"  width="200" height="400" ></a>
-<a href="url"><img src="https://raw.githubusercontent.com/petwill/E-monitor/master/photos/device_1.jpg"  width="400" height="200" ></a>
+![](photos/device_0.jpeg)
+![](photos/device_1.jpeg)
 
 ### App Screenshot
 
