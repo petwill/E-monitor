@@ -25,7 +25,7 @@ For more info about this project, Please refer to file E-monitor.pptx
 ### App Screenshot
 
 <a href="url"><img src="https://raw.githubusercontent.com/petwill/E-monitor/master/photos/screenshot_0.png" align="left" width="200" height="400" ></a>
-<a href="url"><img src="https://raw.githubusercontent.com/petwill/E-monitor/master/photos/screenshot_1.png" align="right" width="400" height="800" ></a>
-<a href="url"><img src="https://raw.githubusercontent.com/petwill/E-monitor/master/photos/screenshot_2.png" align="left" width="400" height="800" ></a>
-<a href="url"><img src="https://raw.githubusercontent.com/petwill/E-monitor/master/photos/screenshot_3.png" align="right" width="400" height="800" ></a>
+<a href="url"><img src="https://raw.githubusercontent.com/petwill/E-monitor/master/photos/screenshot_1.png" align="right" width="200" height="400" ></a>
+<a href="url"><img src="https://raw.githubusercontent.com/petwill/E-monitor/master/photos/screenshot_2.png" align="left" width="200" height="400" ></a>
+<a href="url"><img src="https://raw.githubusercontent.com/petwill/E-monitor/master/photos/screenshot_3.png" align="right" width="200" height="400" ></a>
 
