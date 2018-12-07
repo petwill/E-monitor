@@ -15,7 +15,7 @@ Linkit One 7688
 * embedded QR code scanner
 * customized settings for notification
 
-For more info about this project, Please refer to file E-monitor.pptx
+For more info about this project, Please refer to file `slides/E-monitor.pdf`
 ### device appearance
 
 <a href="url"><img src="https://raw.githubusercontent.com/petwill/E-monitor/master/photos/device_0.jpeg"  width="200" height="400" ></a>
